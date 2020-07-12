@@ -1,0 +1,7 @@
+{
+    "name": "pravinmd/firsthelloworld",
+    "description": "frist messages with package",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
